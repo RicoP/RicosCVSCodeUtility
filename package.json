@@ -4,7 +4,8 @@
   "publisher": "Rico",
   "repository": "https://github.com/RicoP/RicosCVSCodeUtility",
   "description": "",
-  "version": "0.0.2",
+  "icon" : "doc/logo.png",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.104.0"
   },
