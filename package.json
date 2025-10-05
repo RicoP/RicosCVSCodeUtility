@@ -1,8 +1,10 @@
 {
   "name": "ricos-c-code-utility",
-  "displayName": "Ricos C Code Utility",
+  "displayName": "Rico’s C Code Utility",
+  "publisher": "Rico",
+  "repository": "https://github.com/RicoP/RicosCVSCodeUtility",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -14,8 +16,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "ricos-c-code-utility.helloWorld",
-        "title": "Hello World"
+        "command": "ricos-c-code-utility.cbackslashes",
+        "title": "Rico: Tidy up trailing backslashes"
       }
     ]
   },
